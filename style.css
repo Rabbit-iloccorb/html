@@ -1,0 +1,16 @@
+
+p{
+    color:brown;
+} 
+.yes{
+    color:aqua;
+}
+.no{
+    color:blueviolet;
+}
+p:hover{
+    background-color: bisque;
+}
+*{
+    background-color: bisque;
+}
